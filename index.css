@@ -93,6 +93,22 @@ section ul li a svg:hover{
     opacity: 1;
 }
 
+.saiba{
+    width: 95%;
+    margin: 30px auto;
+}
+
+.saiba a{
+    text-decoration: none;
+    background-color: #fafafa;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 22px;
+    color: #141412;
+    font-weight: 700;
+    cursor: pointer;
+}
+
 
 @media (max-width: 767px){
 
