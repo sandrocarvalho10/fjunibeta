@@ -107,6 +107,8 @@ section ul li a svg:hover{
     color: #141412;
     font-weight: 700;
     cursor: pointer;
+    margin: 0 auto;
+    display: block;
 }
 
 
